@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>.Imaging Science, Washington University in St. Louis
+subtitle: <a href='https://engineering.wustl.edu/academics/programs/imaging-science/index.html'>Imaging Science</a>. Washington University in St. Louis
 
 profile:
   align: right
